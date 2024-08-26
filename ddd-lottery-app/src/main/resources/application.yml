@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: ddd-lottery-app
+  profiles:
+    active: dev
